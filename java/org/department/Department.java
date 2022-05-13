@@ -1,0 +1,10 @@
+package org.department;
+
+import org.college.College;
+
+public class Department extends College{
+public static void deptName()
+{
+	System.out.println("The department name is ECE");
+}
+}
